@@ -1,12 +1,12 @@
 
 h1 {
-	font-size: 26px;
 	color: #44CCAC;
+	font-size: 26px;
 }
 
 h2 {
-        font-size: 21px;
         color: #6060DD;
+	font-size: 21px;
 }
 
 p {
@@ -15,9 +15,8 @@ p {
 }
 
 body {
-	margin: 20px;
-	padding: 20px;
-	background-color: #f06c84;
+	background-color: #fffcf0;
+	margin: 40px;
 	line-height: 1.5;
 }
 
